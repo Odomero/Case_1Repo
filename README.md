@@ -1,2 +1,2 @@
-# Case_1Repo
+# Repository for Case 1
 Repository for RR classes
